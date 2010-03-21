@@ -1,0 +1,5 @@
+Usage : ./floyd.rb [options]
+Options :
+  -v : verbose mode
+  -h : prints this message
+please read the source code to know how to use this script :)
